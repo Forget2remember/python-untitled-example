@@ -1,8 +1,9 @@
 
 def main(msg):
-    // Another comment
-    // Adding a diff commit
-    //Print a msg
+    // No longer need comments here
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("Hello world!")
